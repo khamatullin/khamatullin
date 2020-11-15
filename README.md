@@ -1,6 +1,6 @@
 Khamatullin GitHub Profile.
 =====================
-Hi there 👋
+Hello there 👋
 
 🌱 I’m currently learning JS.
 
