@@ -1,9 +1,13 @@
+<h1> Khamatullin GitHub Profile </h1>
 ### Hi there 👋
 🌱 I’m currently learning JS.
 
 📫 How to reach me: <a href="mailto:aidar.khamatullin@gmail.com">aidar.khamatullin@gmail.com</a>
 
 ⚡ Fun fact: mount Everest is Earth's highest mountain above sea level.
+
+<hr>
+
 
 <!--
 **khamatullin/khamatullin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
