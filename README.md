@@ -11,7 +11,7 @@ Hello there 👋
 My repositories
 -----------------------------------
 
-Project name      | Description
+Project           | Description
 ------------------|----------------------
 Piroll            | First project
 Another project   | ..
